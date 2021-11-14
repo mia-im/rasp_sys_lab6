@@ -1,0 +1,16 @@
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\bin\Debug\net5.0\ParallelForApplication.exe
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\bin\Debug\net5.0\ParallelForApplication.deps.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\bin\Debug\net5.0\ParallelForApplication.runtimeconfig.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\bin\Debug\net5.0\ParallelForApplication.runtimeconfig.dev.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\bin\Debug\net5.0\ParallelForApplication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\bin\Debug\net5.0\ref\ParallelForApplication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\bin\Debug\net5.0\ParallelForApplication.pdb
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ParallelForApplication.csprojAssemblyReference.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ParallelForApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ParallelForApplication.AssemblyInfoInputs.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ParallelForApplication.AssemblyInfo.cs
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ParallelForApplication.csproj.CoreCompileInputs.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ParallelForApplication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ref\ParallelForApplication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ParallelForApplication.pdb
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForApplication\obj\Debug\net5.0\ParallelForApplication.genruntimeconfig.cache

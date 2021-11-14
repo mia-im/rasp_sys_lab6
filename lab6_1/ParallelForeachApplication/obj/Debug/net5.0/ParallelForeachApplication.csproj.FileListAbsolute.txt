@@ -1,0 +1,16 @@
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\bin\Debug\net5.0\ParallelForeachApplication.exe
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\bin\Debug\net5.0\ParallelForeachApplication.deps.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\bin\Debug\net5.0\ParallelForeachApplication.runtimeconfig.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\bin\Debug\net5.0\ParallelForeachApplication.runtimeconfig.dev.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\bin\Debug\net5.0\ParallelForeachApplication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\bin\Debug\net5.0\ref\ParallelForeachApplication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\bin\Debug\net5.0\ParallelForeachApplication.pdb
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ParallelForeachApplication.csprojAssemblyReference.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ParallelForeachApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ParallelForeachApplication.AssemblyInfoInputs.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ParallelForeachApplication.AssemblyInfo.cs
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ParallelForeachApplication.csproj.CoreCompileInputs.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ParallelForeachApplication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ref\ParallelForeachApplication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ParallelForeachApplication.pdb
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб6\ParallelForeachApplication\obj\Debug\net5.0\ParallelForeachApplication.genruntimeconfig.cache
